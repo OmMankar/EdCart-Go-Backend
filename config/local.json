@@ -1,0 +1,9 @@
+{
+    "db_ip":"localhost",
+    "db_port":27017,
+    "db_cluster":"Go",
+    "user_collection":"user",
+    "card_collection":"card",
+    "db_name":"EdCart"
+
+}
